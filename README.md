@@ -1,5 +1,4 @@
-# property-listing
-Property Listing application
+📚 General info
 App to view and book places to stay. All places are listed on the 'discover.page' and clicking on an item navigates to a place detail page using the place id in the browser.
 Places are displayed under 2 list options: 'ALL PLACES' and 'BOOKABLE PLACES'. The first place is displayed using an ion-card, the remaining places are displayed using a list with a thumbnail image. There is code to prevent the user from being able to book their own places, using a userId matching function to show/hide the booking button.
 Places can be booked, listed and cancelled.
